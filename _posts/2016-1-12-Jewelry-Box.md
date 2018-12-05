@@ -1,6 +1,7 @@
 ---
 title: Jewelry Box
-author: Kurt Rooks
+tags:
+- woodworking
 date: 2016-1-12
 layout: post
 snippet: Maple and cherry jewelry box with butternut inlay

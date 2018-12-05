@@ -1,6 +1,7 @@
 ---
 title: Bandsaw Box
-author: Kurt Rooks
+tags:
+- woodworking
 date: 2015-05-25
 layout: post
 snippet: Cherry & butternut bandsaw box

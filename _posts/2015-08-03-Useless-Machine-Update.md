@@ -1,6 +1,7 @@
 ---
 title: Useless Machine - Part 1
-author: Kurt Rooks
+tags:
+- woodworking
 date: 2015-08-03 01:00 
 layout: post
 previewImage: /media/thumb.uselessMachine_top.jpg

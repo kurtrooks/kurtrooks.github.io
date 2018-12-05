@@ -1,5 +1,6 @@
 ---
-author: Kurt Rooks
+tags:
+- woodworking
 title: Workbenches
 date: 2015-07-01
 layout: post

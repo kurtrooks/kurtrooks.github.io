@@ -1,6 +1,7 @@
 ---
 title: Reclaimed Metal Coffee Table
-author: Kurt Rooks
+tags:
+- woodworking
 date: 2016-09-04
 layout: post
 snippet: Industrial coffee table made from metal hand railings and cherry wood

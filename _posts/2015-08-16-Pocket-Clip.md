@@ -1,5 +1,6 @@
 ---
-author: Kurt Rooks
+tags:
+- metalworking
 title: Keyring Pocket Clip
 date: 2015-08-16
 layout: post

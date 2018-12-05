@@ -1,6 +1,7 @@
 ---
 title: Floating Shelf
-author: Kurt Rooks
+tags:
+- woodworking
 date: 2015-11-25
 layout: post
 snippet: Cherry floating shelf built at Hacksburg

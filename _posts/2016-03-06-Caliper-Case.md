@@ -1,6 +1,7 @@
 ---
 title: Caliper Case
-author: Kurt Rooks
+tags:
+- woodworking
 date: 2016-03-06
 layout: post
 snippet: Hand routed caliper case with hidden barrel hinges
