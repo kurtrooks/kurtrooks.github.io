@@ -11,17 +11,17 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://kurtrooks.github.io/
+url: http://kurtrooks.com
 baseurl: /
 title: Kurt Rooks
 author: Kurt Rooks
-description: Personal blog and resume
+description: Kurt Rooks - maker,tinkerer,jack of all trades
 avatar: profile.png
 email: kurt@kurtrooks.com
-github: kurtrooks
 twitter: kurt_rooks
 instagram: kurt_rooks
 youtube: bonafidegeek
+#github: kurtrooks
 #linkedin: kurtrooks
 #stackoverflow: kurt_rooks   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
