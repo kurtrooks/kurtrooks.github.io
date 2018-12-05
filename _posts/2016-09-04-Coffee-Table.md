@@ -2,6 +2,8 @@
 title: Reclaimed Metal Coffee Table
 tags:
 - woodworking
+- welding
+- metalworking
 date: 2016-09-04
 layout: post
 snippet: Industrial coffee table made from metal hand railings and cherry wood
