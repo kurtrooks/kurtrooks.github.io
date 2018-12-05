@@ -2,7 +2,7 @@
 author: Kurt Rooks
 title: Keyring Pocket Clip
 date: 2015-08-16
-layout: default
+layout: post
 snippet: Making a keyring pocket clip from a used hacksaw blade
 previewImage: /media/thumb.DSCN6537.JPG
 ---

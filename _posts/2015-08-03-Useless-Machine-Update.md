@@ -2,7 +2,7 @@
 title: Useless Machine - Part 1
 author: Kurt Rooks
 date: 2015-08-03 01:00 
-layout: default
+layout: post
 previewImage: /media/thumb.uselessMachine_top.jpg
 snippet: Electronics complete for Useless Machine, now to build the box
 ---

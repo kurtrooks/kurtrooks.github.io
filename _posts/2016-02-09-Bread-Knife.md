@@ -2,7 +2,7 @@
 title: Bread Knife
 author: Kurt Rooks
 date: 2016-02-09
-layout: default
+layout: post
 snippet: Bow style bread knife made from butternut
 previewImage: /media/thumb.IMG_6624.JPG
 ---

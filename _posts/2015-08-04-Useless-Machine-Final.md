@@ -1,10 +1,6 @@
 ---
 title: Useless Machine - Part 2
-author: Kurt Rooks
-date: 2015-08-04 23:00 
-layout: default
-snippet: Useless Machine complete!
-previewImage: /media/thumb.uselessMachine_final.jpg
+layout: post
 ---
 
 <div class="youtubevideowrap">

@@ -2,7 +2,7 @@
 author: Kurt Rooks
 title: Workbenches
 date: 2015-07-01
-layout: default
+layout: post
 snippet: Timelapse photography of part of my workbench build.
 previewImage: /media/thumb.IMG_20150723_182102.jpg
 ---

@@ -2,7 +2,7 @@
 title: Floating Shelf
 author: Kurt Rooks
 date: 2015-11-25
-layout: default
+layout: post
 snippet: Cherry floating shelf built at Hacksburg
 previewImage: /media/thumb.IMG_6203.JPG
 ---

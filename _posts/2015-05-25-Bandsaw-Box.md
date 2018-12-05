@@ -2,7 +2,7 @@
 title: Bandsaw Box
 author: Kurt Rooks
 date: 2015-05-25
-layout: default
+layout: post
 snippet: Cherry & butternut bandsaw box
 previewImage: /media/thumb.IMG_20150814_234618.jpg
 ---

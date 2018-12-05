@@ -2,7 +2,7 @@
 title: Caliper Case
 author: Kurt Rooks
 date: 2016-03-06
-layout: default
+layout: post
 snippet: Hand routed caliper case with hidden barrel hinges
 previewImage: /media/thumb.IMG_6872.JPG
 ---
