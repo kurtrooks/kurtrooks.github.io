@@ -32,3 +32,15 @@ google_analytics: UA-176423965-1
 exclude: [vendor]
 
 theme: jekyll-theme-minimal
+
+
+defaults:
+   -
+     scope:
+       path: "_slides"  #__
+     values:
+       layout: "iframe"
+
+collections:
+   slides:
+     output: true
