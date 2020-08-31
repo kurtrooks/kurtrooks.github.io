@@ -21,11 +21,11 @@ email: kurt@kurtrooks.com
 twitter: kurt_rooks
 instagram: kurt_rooks
 youtube: bonafidegeek
-#github: kurtrooks
-#linkedin: kurtrooks
-#stackoverflow: kurt_rooks   #e.g: users/2735833/proton1h1
+#github: 
+#linkedin: 
+#stackoverflow:
 #Comment out if you don't want disqus
-#disqus: kurtrooks
+#disqus: 
 google_analytics: UA-176423965-1
 
 # needed for travis-ci build
